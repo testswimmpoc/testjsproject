@@ -37,6 +37,8 @@ testjsproject/
 
 &nbsp;
 
+## **Modules**
+
 <SwmPath>[src/database/mockDB.js](/src/database/mockDB.js)</SwmPath>
 
 **Purpose**: This file acts as a mock database, simulating user data storage.
